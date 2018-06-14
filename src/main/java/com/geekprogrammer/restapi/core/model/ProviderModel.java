@@ -13,6 +13,7 @@ public class ProviderModel {
 	private String email;
 	private String typeprovider;
 	private String name;
+	
 	public String getNit() {
 		return nit;
 	}
